@@ -27,3 +27,5 @@ SELECT
   COUNT(volume_sold_gallons) AS volume_sold_gallons_count
 FROM
   `bigquery-public-data.iowa_liquor_sales.sales`;
+
+
