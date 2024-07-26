@@ -49,6 +49,12 @@ The Iowa Department of Commerce aims to enhance its understanding of liquor reta
 - STEP 1: Define the Scope and Objectives
 - STEP 2: Access and Load the Data
 - STEP 3: Data Cleaning and Preparation
+   - Checking for missing values
+   - Handling missing values
+      - Removing rows with missing ESSENTIAL values
+      - Fill missing values in NON-ESSENTIAL columns
+   - Remove Duplicates
+   - Convert Data Types
 - STEP 4: Exploratory Data Analysis (EDA)
 - STEP 5: Advanced Analysis
 - STEP 6: Visualization and Reporting
