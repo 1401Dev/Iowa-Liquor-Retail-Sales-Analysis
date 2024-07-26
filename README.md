@@ -61,8 +61,15 @@ The Iowa Department of Commerce aims to enhance its understanding of liquor reta
 - STEP 7: Recommendations and Insights
 
 **Process:**
-- Defined the scope and objectives
-- Cleaned data using Excel and Python scripts.
+OBJECTIVE 1
+- The objective is to analyze sales trends at the store level to forecast future sales trends and identify cyclical patterns.
+- Accessed and Loaded the Data
+- Checked for Missing Values
+- Handled missing values
+   - ESSENTIAL Columns are: 'date', 'sales_dollars', 'store_number'
+        - Time series analysis
+        - Forecast future sales
+- Cleaned data using SQL.
 - Built interactive dashboards in Power BI.
 
 **Results and Impact Outcomes:**
